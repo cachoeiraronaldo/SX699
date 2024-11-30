@@ -201,14 +201,3 @@ footer a:hover {
     border-color: #ff4500; /* Borda muda para laranja-avermelhada (opcional) */
 }
 
-/* Responsividade */
-@media (max-width: 768px) {
-    .category-title {
-        font-size: 20px;
-    }
-
-    .video-card {
-        width: 150px; /* Ajuste o tamanho em telas menores */
-        height: 100px;
-    }
-}
